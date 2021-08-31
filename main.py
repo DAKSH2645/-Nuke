@@ -1,4 +1,4 @@
-print("FUCKED BY MARSHALLOW | Made by GANGSTER WORLD.\n")
+print("FUCKED BY MARSHMALLOW| Made by GANGSTER WORLD.\n")
 import os
 import colorama
 from colorama import Fore
@@ -10,11 +10,11 @@ from discord.ext import commands
 
 ###########SETUP###############
 prefix  = "??"                                                       #
-token = "ODUxMTQwMTc4MTQzMjE1NjY2.YLz8Dw.pds0QvUzppTdsfBU88rfFtGK_H0"                                             #
+token = "your token here"                                             #
 spam_messages = " @everyone @here GW SBKA BAAP OP https://discord.gg/FdEtdeCewx"          #
 massdm = "GW OP SBKA BAAP https://discord.gg/FdEtdeCewx"                   #
-rolenames = "MARSHMALLOW OP™"          #                                                           
-channels = "FUCKED BY MARSHALLOW"   #
+rolenames = "GW OP™"          #                                                           
+channels = "FUCKED BY GW"   #
 sname = "NUKED BY GW™"    #
 key = input("angelischad\n> ")      #
 #############################
